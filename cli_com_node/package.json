@@ -1,0 +1,16 @@
+{
+  "name": "cli_com_node",
+  "version": "1.0.0",
+  "description": "Esse e um projeto de uma cli ustilisando nodejs",
+  "main": "index.js",
+  "author": "Jairo Junior",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+      "clima":"./bin/clima"
+  },
+  "files": [
+      "bin",
+      "src"
+  ]
+}
